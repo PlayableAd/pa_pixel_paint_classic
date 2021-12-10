@@ -20,7 +20,36 @@
     ]
   ],
   "excluded-modules": [
-    "3D Physics/Builtin"
+    "Animation",
+    "Button",
+    "Dynamic Atlas",
+    "DragonBones",
+    "EditBox",
+    "Label Effect",
+    "Mask",
+    "Mesh",
+    "NodePool",
+    "Native Socket",
+    "PageView",
+    "PageViewIndicator",
+    "ProgressBar",
+    "ParticleSystem",
+    "RichText",
+    "Renderer Texture",
+    "Slider",
+    "ScrollBar",
+    "ScrollView",
+    "Spine Skeleton",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "Widget",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
   ],
   "preview-port": 7456,
   "design-resolution-width": 960,
@@ -44,5 +73,6 @@
     "audience": {
       "enable": false
     }
-  }
+  },
+  "last-module-event-record-time": 1639111692226
 }

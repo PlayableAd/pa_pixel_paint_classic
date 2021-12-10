@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e7ee8dfc-ba81-4889-ae2e-7263cf8ad36a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 440,
+  "height": 515,
+  "platformSettings": {},
+  "subMetas": {
+    "han-animation_2_03": {
+      "ver": "1.0.4",
+      "uuid": "b8da4074-99cf-4b96-a515-a77a8ce1010d",
+      "rawTextureUuid": "e7ee8dfc-ba81-4889-ae2e-7263cf8ad36a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -1.5,
+      "trimX": 6,
+      "trimY": 4,
+      "width": 433,
+      "height": 510,
+      "rawWidth": 440,
+      "rawHeight": 515,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

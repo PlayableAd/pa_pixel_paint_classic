@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hand",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            111,
+            -4
+          ],
+          "motionPath": [],
+          "curve": "cubicInOut"
+        },
+        {
+          "frame": 1,
+          "value": [
+            -20,
+            89
+          ],
+          "curve": "cubicInOut",
+          "motionPath": []
+        },
+        {
+          "frame": 2,
+          "value": [
+            111,
+            -4
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}
