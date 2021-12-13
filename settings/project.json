@@ -20,7 +20,6 @@
     ]
   ],
   "excluded-modules": [
-    "Animation",
     "Button",
     "Dynamic Atlas",
     "DragonBones",
