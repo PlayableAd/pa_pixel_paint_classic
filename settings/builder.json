@@ -1,11 +1,12 @@
 {
   "title": "pixelpain",
   "packageName": "org.cocos2d.demo",
-  "startScene": "63d1f2d1-2c6f-41d1-b2f9-9e519b2d5261",
+  "startScene": "c59a09f9-b574-48bc-b2ae-ef9fb26ff227",
   "excludeScenes": [
     "55988e62-5e4b-4cb0-9a58-b3a11a211e70",
     "3d495d25-7dc2-4e71-ab11-b94b081c71b6",
-    "5ccda86a-c3ab-44ec-bb6e-64204346213d"
+    "5ccda86a-c3ab-44ec-bb6e-64204346213d",
+    "63d1f2d1-2c6f-41d1-b2f9-9e519b2d5261"
   ],
   "orientation": {
     "landscapeRight": true,
